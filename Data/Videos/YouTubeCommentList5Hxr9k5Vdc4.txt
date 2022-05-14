@@ -1,0 +1,99 @@
+That screwdriver flip at 11:47 was smooth af
+Linus, I love how you add little bits of wisdom about owning and running companies (like the health form in this video). In many ways, it’s one of the most educational parts of your content, and I always appreciate it.
+Linus saying "Look at these connectors!" after mentioning he'd love playing with this server even if it was broken is so wholesome!
+Gotta admit Linus made his best joke yet, “Im Oscar the Tech Grouch” “What the f@ck is wrong with you kids” 10/10
+I love how just pure nerdy these two genuinely get over this, it's absolutely catching an always end up smiling along with em. Let alone these two make a hilarious pair.
+In twenty years, I guess I'll be carrying one of these in my pocket. Or in my earlobe or whatever.
+Imagine you hire some technicians to build you a server and they are having this much fun
+Did you enjoy this video? Just remember that there's a parallel universe where Linus took the _safe option_ of carrying on with his painting business and never joined NCIX.
+To shoot the intro when Linus says "wait where'd it go" they must have shot the resulting build after the "you have to build it first" I like the planning the script through, neat trick
+I love how Linus-Jake interactions during server related videos are like 70% innuendos
+You know you’re cooking with something special when your cooling system makes the THX noise 18:37
+When you spend all day working with this type of stuff, yet you still find yourself watching Linus get really excited using it.
+Writer: "So how many innuendos do you want in this video?" Linus: "Yes."
+They need to pay more attention to rail screws. It's a bad time when months later you expect to pull something out of the rack half way and it ends up on you or the floor.
+I remember when Google announced they had several pedabytes of storage between their servers, and it felt like only a company as rich and powerful as Google would ever have that much storage. This was when having a 1 terabyte in your PC required 4 drive bays.
+The next LTT hire is confirmed to be a person just to lift heavy things.
+I love Linus, and I get that it's all in good fun, but I would find it very difficult working for someone who wants to make everything a competition. That's definitely a Me problem, though.
+Me: *looks up a tutorial to build a $700 computer* Linus: "Lets yolo it"
+When the fans first started up, and hit that harmony, that was beautiful. Deafeningly beautiful lol
+7:10 linus says 'OUR' company, not 'my' company. It's subtle but it shows he knows its a team effort and is a sign that he cares about and respects his employees.
+ahh my favourite content, Jake and Linus being children around expensive server equipment. Give me more
+Hell of an organization Linus has going there. Wow. I'm so amazed.
+"That's how you know you're in enterprise when the software is the most expensive thing. " *Laughs in OraSQL licensing.*
+ok, can we just take a moment to appreciate how nice of a boss linus is?
+This will be one of those videos we watch in ten years and laugh at how giddy Linus got about tech that's then wayy out of date
+Whoever does HR for LMG must self medicate after these kinds of episodes
+Watching Linus and Jake have a full on nerdgasm every 30 seconds is hilarious!🤣
+I LOVE lmg's editors. Do we say that enough? Such amazing humors.
+Linus looks so genuinely happy in this video. You love to see it.
+I love that LTT content is growing and maturing into enterprise and engineering spaces while still maintaining the silliness and nerd level enthusiasm. I started watching LTT at the age of 30 while training as a Technician/Sysadmin, it's now 10 years later, and I still find things I love about LTT content.
+This video series is a great example of how recursive LTT's business is. They build servers to store and process the material they film while building said servers. LTT is one of the biggest self-referential meta channels on Youtube. Edit: ITT: People who know that LTT won't keep this server and also what meta actually doesn't mean. Read on to be educated 👌
+I was so caught on, that when you said we will see the performance next time I wanted to click the dislike so much. But I just couldn't, you are too good at doing this stuff it just amazes me :D. Like and hapily awaiting the next episode.
+22:47 the moment Linus realizes how much power it draws 22:48 the moment he realizes he has to pay for it.
+I think you might find the limiting factor when it comes to the amount of power(amps) needed from one machine to the next is the RAM population. From my experience there’s only a jump when the dimm slots are fully populated. 🤓
+We built an image server (along with the software) for the DoD for Y2K, to replace an IBM WORM stack and IBM RS/6000 controller. They wanted it PC based, so for a while we had the most expensive PC-based system I had ever heard of, well over six figures, back when that was real money. I know it was used for a decade, so can't fault the spend.
+Linus: There's business grade computer, and then there's enterprise grade computer. Also Linus: Let's YOLO it
+18:45 I literally got goose bumps hearing the server boot up!🤤
+One year ago Linus told the truth about foldables, a pleasure seeing it being the daily driver a year later retiring the note 9. Also this project is a different level for a tech enthusiast, well done!
+I see Jake and Linus, I click :) Jake is one of my favourite in the LTT crew
+WekaFS looks pretty amazing. I just briefly looked into it, and the way it’s able to get such fast speeds is, it enables direct storage access. So just like in gaming, the GPUs themselves are directly accessing the NVME drives, without having to go through the CPU at all. The scale of that…eliminating that bottleneck, for each IO request, when you’re training and testing a neural net and throwing insane amounts of requests at the cluster…is just insane. That’s how they’re able to get it going so fast. I can see why they would charge a lot for that tech…though, it would be nice to see a free and open source alternative. With NVidia involved though, you can probably bet that’s not likely to happen. “F you, NVidia!” - Linus
+Cut to 2 years from now: "we blew through our Petabyte server, so we bought another building to store an entire YOTTABYTE of data"
+All this makes me think of the days my employer had Linux clusters with 4000 compute cores and tens of TB of storage for high powered engineering calculations. I can only imagine Linus being in that server room going crazy
+I love how he's put links to the parts in the description like we're gonna build a $1,000,000 PC 😂
+I love how the power situation was such a problem but in the UK we have 240V 32 amp on regular wall sockets. Single phase too.
+I can’t imagine how nervous everyone at super micro was watching Linus handle this expensive tech and almost dropping it several times
+Something tells me linus is dragging out this series so that he can convince his wife to let him keep it. WE have to make sure to SMACK the like button so that he can keep it!
+8:16 lives are priceless, but I do agree with that server being quite a bit more expensive than my life insurance payout
+I am perfectly fine with you milking every single second of content out of this thing because one the long format videos are amazing, but two this whole project is amazing
+One of my first big enterprise rollouts was building a space for two EMC Symmetrix 3500. These things had only 960GB but took up 3 floor tiles wide and was powered by dual Russellstoll 3-phase power jacks.
+I admire Linus' ability to deliver a barrage of heart attacks in under 5 minutes
+Ah yes, one of my favorite LTT series, Assemble Time. Assemble Time Come on grab your screwdriver We'll go to hardware lands With Jake the Server guy And Linus the Tech Tips The troubleshooting will never end It's assemble time ... I'm already outside while singing this, ya can close the door now.
+That server starting up just reminded me so much of the THX logo sound! Felt about as epic too lol
+This romance between Jake and Linus may be my favorite underlying story in all these videos.
+The fact that they're having fun the same time, it makes the whole experience Zombatos Clatos
+I love how much fun both LInus and Jake have together with all these expensive and crazy components. It's infectious as heck.
+you can really see the foundation of Linus in the first 20 secs of this... ...he is a PC nerd at his core!
+Love the direction this channel is going
+Great content as always! Your gobsmacked smiling faces in the end, before the "watch next episode", is the look of two experieced, skilled, hardcore tech nerds enterprise hardware experience is taken to a whole new level! Looking forward to next episode!
+Jake has to be in every video Linus wants to be in! Linus has the money, Jake explains it 😆
+I work at a Facebook data center, so it’s pretty sweet to see a small part of what goes on inside the buildings
+You guys… getting full on chubs with server gear and the innuendoes… gold! To be honest, we’re all getting chubs watching!
+This has the same energy as using a tractor trailer to drive to work
+I remember when my primary school had a storage server, 500 GB seemed like everything. 500 GB for the whole school
+Linus: has the grip strength to do chin ups on the server rack, but doesn't have the grip strength to pick up a GPU
+Jake's absolute flabber-gasted look at 18:56 is a mood when you see something so f*cking awesome.
+This guys are hilarious😂 loved that intro👍🏽
+I can't help but think there was a lot of laughing while filming around the time Jake called Linus a "silly goose". There's just something extremely silly about it all and you can see the genuine amusement in their eyes.
+Love how they get all excited about the power bars and those are just kinda normal at Data Centers and we even have 3 phase power in some racks....welcome to enterprise grade.
+With your petabyte project i am becoming numb to numbers "400Gb pers second" "1Pb of storage" No big deal.... wait 1 Pb is 1,000 Tb 400Gb per second is about 50 to 120 times faster then any single m.2 storage on the common market..... thats fast
+Linus jumping around with the HGX when he's infamous for dropping things was more terrifying than most modern horror movies.
+Always follow Linus’ lead kids, always lift with your back!
+and all i want is to save for a 3060 :D looks amazing so far. keep up the amazing vids
+I love how they are horseing around with a million dollar machine hahaha
+I work in a related industry. Cables and connectors are always the hardest thing to get right. Twice as hard when your primary power isn't set up right.
+Not going to lie... I smiled with that damn cliff hanger ending from Linus + promotion transition. I can't wait to see performance :)
+I love your content, but I'll admit, I feel frustrated/jealous watching you guys make all this wild and expensive stuff, when I can't even afford something like a gtx 1060. Makes me feel like i'm doing something wrong with my life.
+“It always comes down to the wire”. Or in this case, the extension cables. Lol
+Hmm i would also love to see some comparison with ZFS, Btrfs, Linux MD vs preinstalled proprietary solution
+It's absolutely astounding that content this nerdy gets so much views and acclaim, and it makes me so happy lol
+I'm looking forward to the video where they install the new plug. And Brian keeps Linus from getting electrocuted.
+Well played, well played. If this was the first video I saw of yours, I would immediately subscribe
+Oh yes. I can’t imagine how cool it would be to handle tech of this scale, so good luck, have fun, and DON’T DROP THE SERVER LINUS!!! I’m just waiting for the video titled “I broke a $1,000,000 computer”
+I love Linus and Jake's dynamic lol, they're both children
+I honestly can’t get enough of these videos. I like them doing different and new things. I would watch 5 ltt videos a day if I could but I know they take long to produce. A cool idea could be diy drone making with circuits and making one with a battery that lasts a whole day flying or diy projects would be really cool.
+With these power needs, I am so happy I love in Europe with 240v and 16amps per cirket max for normal house plugs. Our 360v/400v fore machines can diliver much more with a common cirket for 32amps.
+i love that Linus does a Skeletor laugh through the video. He needs lightning for every laugh.
+I'm really interested in that software. Would love some comparisons to other data/file storage systems and software. Looks crazy, that visualization and stuff...
+As some one who has racked a lot of gear, its nice to see some one have so much fun doing it. Alot of the time you in to much of hurry to appreciate a well built rack of gear.
+18:48 it sounds like the THX intro . (It also sounds like the cart would have rolled away if it wasn’t connected to so many cables.)
+It looks like a Tesla. Elon musk: And I took that personally
+Whats REALLY amazing is that in 10 yrs maybe less this setup will be outdated, slow by comparison and worth about $50,000.
+That would be a cool product. "LTT toolbelt" like the ones for constrction workers but for multiple pc construction tools.
+I like the part when he keeps putting the screwdriver on the floor. 
+13 days ago we started on a journey, did Tolkien join the writing team for this one? Another couple of weeks to go! I think the screw driver is over priced when you could buy a trusted brand like Wera for the same cost.
+Do you ever just watch a Linus video and not understand why it's so amazing but just enjoy watching two locker stuffed nerds geek out over tech
+I died laughing @1:36 Tesla panel gaps😂 moving on you guys are completely doing storage scaling wrong no enterprise does that oh boy these TrueNas videos are Hilarious and glusterfs & ceph is the king of storage. People will laugh at if you mention zfs in the enterprise community
+I actually think it almost always makes sense to file a claim against its own company: If you pay out money to the shareholders (here Linus) you get taxed but if you not pay out and rather let the company pay for your health problems related to work, you sort of don't have to pay taxes because it ain't pay out.
+I love that one you guys are hilarious. Balls to the walls kick ass servers. Spendy. 👍
+There's always those two kids that will fight for the most sand in the sandpit. But seldom is a sandpit as expensive as this one!
